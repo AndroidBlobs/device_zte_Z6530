@@ -1,0 +1,17 @@
+etc/firmware/Himax_firmware_Dijing.bin
+etc/firmware/catcher_filter_1_ulwctg_n.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n_FullLog.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n_PLS_PS_ONLY.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n_SlimLog_DspAllOff.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n__Default.bin
+etc/firmware/customfilter/catcher_filter_1_ulwctg_n_meta.bin
+etc/firmware/em_filter_1_ulwctg_n.bin
+etc/firmware/fts_firmware_15.bin
+etc/firmware/fts_firmware_60.bin
+etc/firmware/fts_firmware_67.bin
+etc/firmware/fts_firmware_84.bin
+etc/firmware/fts_firmware_e8.bin
+etc/firmware/hx_criteria_00.csv
+etc/nfcee_access.xml
+etc/permissions/com.nxp.nfc.xml
+framework/com.nxp.nfc.jar
